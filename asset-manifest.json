@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bo4-attachments/static/css/main.baa20cd4.chunk.css",
+    "main.js": "/bo4-attachments/static/js/main.0f8ae990.chunk.js",
+    "main.js.map": "/bo4-attachments/static/js/main.0f8ae990.chunk.js.map",
+    "runtime-main.js": "/bo4-attachments/static/js/runtime-main.39f88e77.js",
+    "runtime-main.js.map": "/bo4-attachments/static/js/runtime-main.39f88e77.js.map",
+    "static/js/2.2b1dcd75.chunk.js": "/bo4-attachments/static/js/2.2b1dcd75.chunk.js",
+    "static/js/2.2b1dcd75.chunk.js.map": "/bo4-attachments/static/js/2.2b1dcd75.chunk.js.map",
+    "index.html": "/bo4-attachments/index.html",
+    "precache-manifest.755cd77ff12bfe0f9e05acc8e8c9a54f.js": "/bo4-attachments/precache-manifest.755cd77ff12bfe0f9e05acc8e8c9a54f.js",
+    "service-worker.js": "/bo4-attachments/service-worker.js",
+    "static/css/main.baa20cd4.chunk.css.map": "/bo4-attachments/static/css/main.baa20cd4.chunk.css.map",
+    "static/js/2.2b1dcd75.chunk.js.LICENSE.txt": "/bo4-attachments/static/js/2.2b1dcd75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f88e77.js",
+    "static/js/2.2b1dcd75.chunk.js",
+    "static/css/main.baa20cd4.chunk.css",
+    "static/js/main.0f8ae990.chunk.js"
+  ]
+}
